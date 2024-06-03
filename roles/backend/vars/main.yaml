@@ -1,0 +1,6 @@
+login_host: db.somustack.online
+login_password: ExpenseApp@1
+login_user: root
+DB_HOST: db.somustack.online
+app_location: /app
+component: backend
